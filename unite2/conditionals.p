@@ -17,3 +17,11 @@ def college():
             ccpApp()
 
             
+
+
+            def calculate_add():
+                print("program has started: please type in 2 numbers to add ")
+                num1 = int(input())
+                num2 = int(input())
+                print( num1 + num2)
+                print("program has ended. ")
