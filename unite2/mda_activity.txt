@@ -1,0 +1,9 @@
+1. Me and Jaquan will make a copy of flappy bird, a side scrolling game where a character flaps up and down to go through gaps in moving pipes.
+
+2. The players have to make it as far as possible to the other side without hittng the pipes, to beat there highest score.
+
+3. The only way too complete it,is to keep getting a higher score.
+
+4. They will have to start over and restart.
+
+5. Splashy Fish, Flappy Wings & clumsy bird.
