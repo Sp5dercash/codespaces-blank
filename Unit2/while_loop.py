@@ -6,3 +6,10 @@
 # to true it will keep running forever.
 
 # The key word is while --- do while
+
+
+
+
+
+def password():
+        print
