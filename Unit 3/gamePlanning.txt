@@ -1,0 +1,22 @@
+My game will be about football, you will have to try and return the kickoff from your endzone to the other.
+Once you get the ball you will have 6 blockers out in front and there will be 7 defenders trying to prevent
+you from scoring. Once you score you will get to move on to the next level which gets harder each time.
+
+
+The controls will be the up, down, right, and left arrows to move your character. The space bar will be used
+to do some type of skill move like (hurdle, juke, or spin).
+
+
+
+
+
+The game primary meschanics are, Ai blocking and Defender logic, Core Player Mechanics, and Level Progression & Risk-Reward
+
+My game primary goals is to catch a kicked football and run it past a designated target yard line—or 
+all the way into the end zone for a touchdown—without getting tackled or stepping out of bounds.
+
+
+The obstacles in my game is active defenders trying to tackle you and environmental hazards that change how the field plays.
+Also trying not to run out od bounds is an obstacles
+
+The Aesthetic of my game is a bold, punchy, retro-arcade
