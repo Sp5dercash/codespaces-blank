@@ -1,0 +1,25 @@
+The game im making is based off of a game called return man, which is you trying to get to the other
+endzone without trying to get tackled. The player will have to try and dodge the CPU unless the game
+will end.what makes it challenging each time you complete a level there will be more defenders.
+each time and will be a different weather which will change the field. Like snow,mud puddles
+or even holes in the ground.
+
+
+There will be a select level screen which makes you choose a level, you can only do level one until
+you complete it.
+
+
+My game objects will be The Return Man (Player),The Football,The Yellow Target Circle,Defenders / Tacklers,
+Teamates (Blockers),Lightning Bolts,The Touchdown Zone (End Zone),Field Lines & Boundary Markers.
+
+
+The controll schemes will be the four arrows or you can use W,A,S,D. Those buttons will have you move
+The returner.
+
+
+The enemy will be the defenders which are trying to physically stop you from scoring, Some obstacle
+objects will be the snow which will have you sliding a little, and also some lightning bolts that
+will give you a timed speed boost.
+
+
+When you cross the endzone you win and when you get tackled by a defender the game will end.

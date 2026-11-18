@@ -1,10 +1,9 @@
 My game will be about football, you will have to try and return the kickoff from your endzone to the other.
-Once you get the ball you will have 6 blockers out in front and there will be 7 defenders trying to prevent
+Once you get the ball you will have 2 blockers out in front and there will be 3 defenders trying to prevent
 you from scoring. Once you score you will get to move on to the next level which gets harder each time.
 
 
-The controls will be the up, down, right, and left arrows to move your character. The space bar will be used
-to do some type of skill move like (hurdle, juke, or spin).
+The controls will be the up, down, right, and left arrows to move your character. E will be used to do a skill move like (hurdle, juke, or spin).
 
 
 
